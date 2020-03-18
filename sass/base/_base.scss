@@ -1,0 +1,15 @@
+
+html {
+    font-size: 62.5%;
+    /* percentage font size will calculate the percentage of browser default font-size */
+}
+
+*,
+a::after,
+a::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+
